@@ -235,3 +235,13 @@ python main.py
 
 ```
 ```
+
+## References
+
+- https://docs.python.org/
+- https://docs.djangoproject.com/
+- https://docs.aiogram.dev/
+- https://ollama.com/
+- https://github.com/ollama/ollama
+- https://python-docx.readthedocs.io/
+- https://github.com/jsvine/pdfplumber
