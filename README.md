@@ -133,13 +133,95 @@ python main.py
 
 ## Скриншоты
 
-Добавьте сюда скриншоты:
+## Скриншоты
 
-* главного меню
-* AI-чата
-* задач
-* документов
-* профиля
+### Главное меню
+
+![Start](screenshots/Start.png)
+
+![Features](screenshots/Features.png)
+
+![Support](screenshots/Support.png)
+
+---
+
+### Регистрация пользователя
+
+![Registration](screenshots/Registration.png)
+
+![Language choice](screenshots/Language%20choice.png)
+
+![Welcome back](screenshots/welcome%20back.png)
+
+---
+
+### Профиль и настройки
+
+![Profile](screenshots/Profile.png)
+
+![Settings](screenshots/Settings.png)
+
+---
+
+### Activity
+
+![Activity](screenshots/Activity.png)
+
+---
+
+### Tasks Function
+
+#### Меню задач
+
+![Task](screenshots/Task%20Function/Task.png)
+
+#### Мои задачи
+
+![My Task](screenshots/Task%20Function/My%20Task.png)
+
+#### Удаление задачи
+
+![Delete Task](screenshots/Task%20Function/Delete%20Task.png)
+
+---
+
+### Documents Function
+
+#### AI чат
+
+![AI Chat](screenshots/Documents%20Function/chat%20with%20AI.png)
+
+#### Выбор типа документа
+
+![Choose Document Type](screenshots/Documents%20Function/Choose%20documens%20type.png)
+
+#### Загрузка документа
+
+![Document Upload](screenshots/Documents%20Function/Document%20upload%20and%20further%20functionality.png)
+
+#### Summary
+
+![Summary](screenshots/Documents%20Function/Summary.png)
+
+---
+
+### Django Admin
+
+#### Главная страница Django Admin
+
+![Django Admin Main](screenshots/django_admin/django_admin_main.png)
+
+#### Пользователи системы
+
+![Django Core Users](screenshots/django_admin/django_core_users.png)
+
+#### Активность пользователей
+
+![Django Activities](screenshots/django_admin/django_activities.png)
+
+#### Django Authentication Users
+
+![Django Auth Users](screenshots/django_admin/django_auth_users.png)
 
 ## Автор
 
